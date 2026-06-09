@@ -3,7 +3,7 @@
 Because physicians often work long hours, fatigue can increase the risk of misdiagnosis. Therefore, the development of automated classification algorithms may assist physicians in diagnosing pneumothorax more accurately and efficiently. Such systems can support clinical decision-making, improve patient outcomes, and potentially save lives.
 In this study, the objective is to investigate three open resources for pneumothorax detection, including the differences and characteristics of their models.
 ## Tools
-Python, torch
+Python, numpy,math, matplotlib.pyplot, seaborn, torch
 ## Models
 Unet, Xception, AlbuNet34, Resnet50 and SCSEUnet
 ## Dataset
